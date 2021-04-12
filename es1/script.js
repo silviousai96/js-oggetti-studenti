@@ -4,7 +4,7 @@
 var studente = {
     "nome": "Silvio",
     "cognome": "Usai",
-    "eta":"25",
+    "eta": 25,
 };
 
 for (var key in studente) {
